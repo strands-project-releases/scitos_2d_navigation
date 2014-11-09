@@ -1,0 +1,12 @@
+Source: ros-hydro-scitos-2d-navigation
+Section: misc
+Priority: extra
+Maintainer: nbore <nilsbore@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-move-base
+Homepage: http://github.com/strands-project/scitos_2d_navigation
+Standards-Version: 3.9.2
+
+Package: ros-hydro-scitos-2d-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-amcl, ros-hydro-move-base
+Description: This package contains components for using the ROS move base together with the Scitos G5 robot.
