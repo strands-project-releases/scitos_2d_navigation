@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>scitos_2d_navigation</name>
-  <version>0.0.4</version>
+  <version>0.0.6</version>
   <description>
     This package contains components for using the ROS move base together
     with the Scitos G5 robot.
@@ -29,6 +29,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>move_base</build_depend>
   <run_depend>move_base</run_depend>
+  <run_depend>amcl</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
