@@ -1,3 +1,24 @@
+## scitos_2d_navigation (indigo) - 0.0.7-0
+
+The packages in the `scitos_2d_navigation` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo scitos_2d_navigation` on `Tue, 24 Mar 2015 11:42:20 -0000`
+
+The `scitos_2d_navigation` package was released.
+
+Version of package(s) in repository `scitos_2d_navigation`:
+- upstream repository: https://github.com/strands-project/scitos_2d_navigation.git
+- release repository: https://github.com/strands-project-releases/scitos_2d_navigation.git
+- rosdistro version: `0.0.6-0`
+- old version: `0.0.6-0`
+- new version: `0.0.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## scitos_2d_navigation (indigo) - 0.0.6-0
 
 The packages in the `scitos_2d_navigation` repository were released into the `indigo` distro by running `/usr/bin/bloom-release scitos_2d_navigation -t indigo -r indigo` on `Wed, 17 Dec 2014 16:30:35 -0000`
